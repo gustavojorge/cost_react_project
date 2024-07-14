@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "id": "af24",
+      "name": "site",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": [
+            "Novo serviço"
+          ],
+          "cost": [
+            "1000"
+          ],
+          "description": [
+            "Novo serviço adicionado"
+          ],
+          "id": "a1d1c77e-b004-446f-a806-87fb6d7ecde6"
+        }
+      ]
+    },
+    {
+      "id": "d4a9",
+      "name": "app",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": [
+            "Contratar designer"
+          ],
+          "cost": [
+            "500"
+          ],
+          "description": [
+            "Contratar designer Figma"
+          ],
+          "id": "a10ff6f7-3f4b-45d3-941f-606ee913206d"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
